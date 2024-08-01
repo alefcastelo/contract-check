@@ -1,0 +1,17 @@
+{
+  "name": "alefcastelo/contract-checker",
+  "description": "A Contract Testing Engine",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "ContractChecker\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alef Castelo",
+      "email": "alefaraujocastelo@gmail.com"
+    }
+  ],
+  "require": {}
+}
